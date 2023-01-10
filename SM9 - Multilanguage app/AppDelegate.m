@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  SM9 - Multilanguage app
 //
-//  Created by Gracjan Ulianowski on 06/12/2022.
+//  Created by Michał Napiórkowski on 21/12/2022.
 //
 
 #import "AppDelegate.h"
